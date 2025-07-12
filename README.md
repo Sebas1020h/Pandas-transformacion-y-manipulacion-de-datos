@@ -33,6 +33,8 @@ jupyter notebook transformacion.ipynb
 ### Opción B: Google Colab
 Haz clic aquí para abrirlo directamente en Colab:
 
+https://colab.research.google.com/github/Sebas1020h/Pandas-transformacion-y-manipulacion-de-datos/blob/main/Pandas_Tratamiento_Manipulacion_Datos.ipynb
+
 ## 📌 Temas y técnicas cubiertas
 * Limpieza de columnas y filas.
 
